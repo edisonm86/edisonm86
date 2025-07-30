@@ -4,8 +4,6 @@
 I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
-
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Skills
@@ -21,19 +19,23 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 <a href="https://www.credly.com/badges/6870d092-d469-4c43-a4d2-5378cd4adf0a/linked_in_profile" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" alt="CompTIA Security+ Badge" />
 </a>
 <a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/AIG/2ZFnEGEDKTQMtEv9C_AIG_4Z26NmeucEAmYLhpJ_1722449830793_completion_certificate.pdf" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/-Forage AIG: Shields Up-007ACC?&style=for-the-badge&logo=Forage&logoColor=white" alt="Forage Certificate Badge" />
+  <img src="https://img.shields.io/badge/-Forage: AIG Shields Up-007ACC?&style=for-the-badge&logo=Forage&logoColor=white" alt="Forage Certificate Badge" />
 </a>
-
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+<a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Datacom/yTszJTvkHFBH6zAn3_Datacom_4Z26NmeucEAmYLhpJ_1722456231635_completion_certificate.pdf" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/-Forage: Datacom-007ACC?&style=for-the-badge&logo=Forage&logoColor=white" alt="Forage Certificate Badge" />
+</a>
+<a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/mastercard/vcKAB5yYAgvemepGQ_Mastercard_4Z26NmeucEAmYLhpJ_1722445034755_completion_certificate.pdf" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/-Forage: Mastercard-007ACC?&style=for-the-badge&logo=Forage&logoColor=white" alt="Forage Certificate Badge" />
+</a>
 </div>
 
 ## Projects
 - Detection Lab
 - SOC Automation Project
+
+## Capstone
