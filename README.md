@@ -9,14 +9,28 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Skills
 [Under Construction]
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Skill                                      | Associated Project                        |
+|-------------------------------------------|-------------------------------------------|
+| Log Analysis (SIEM)                       | [TBD: Log parsing with Splunk/Wazuh]      |
+| Network Traffic Analysis (Wireshark, Zeek)| [Wireshark capture network traffic]       |
+| Intrusion Detection / IDS (Snort, Suricata)| [TBD: Snort rule writing]                 |
+| Threat Intelligence                       | [TBD: IOC enrichment with VirusTotal]     |
+| Malware Analysis (basic static/dynamic)   | [TBD: Malware sandbox or string analysis] |
+| Endpoint Security                         | [TBD: EDR event investigation]            |
+| Use of SOAR Tools                         | [TBD: Automate triage with Python]        |
+| Incident Response Playbooks               | [TBD: Playbook creation in Markdown/PDF]  |
+| Windows Log Analysis                      | [TBD: Event Viewer investigation]         |
+| Linux Log Analysis                        | [TBD: auth.log and syslog investigation]  |
+| MITRE ATT&CK Mapping                      | [TBD: Adversary behavior mapping]         |
+| Packet Crafting (e.g., Scapy)             | [TBD: Custom packet with Scapy]           |
+| Vulnerability Scanning (Nessus/OpenVAS)   | [TBD: Vulnerability report analysis]      |
+| Python Scripting for Automation           | [Python Basics], [Python Basics 2]        |
+| Bash Scripting                            | [TBD: Bash log parser]                    |
+| Regex for Log Parsing                     | [TBD: Regex to extract log fields]        |
+| Threat Hunting                            | [TBD: Hypothesis-based hunt]              |
+| OSINT (Open Source Intelligence)          | [TBD: Username/email investigation]       |
+| PCAP Analysis                             | [Wireshark capture network traffic]       |
+| Phishing Email Analysis                   | [TBD: Header + payload review]            |
 
 ## Certifications
 <div>
