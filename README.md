@@ -39,3 +39,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 - SOC Automation Project
 
 ## Capstone
+- Cybersecurity Strategy & Plan of Action
+- Implementation Plan
+- Summary Presentation
