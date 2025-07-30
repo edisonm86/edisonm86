@@ -1,10 +1,12 @@
 # Hello, I'm Edison Maniwang
 <a href="https://www.linkedin.com/in/edisonmaniwang/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+I’m an emerging Security Analyst with a background in system administration and platform management. I’ve spent nearly three years at Merit America as a Technology Systems Coordinator, managing learning platforms that support IT Support, Data Analytics, Cybersecurity, Project Management, and UX/UI programs. My day-to-day work involves maintaining and troubleshooting our LMS, onboarding users, building learning portals, and supporting secure access to educational tools. I enjoy solving problems, improving platform reliability, and helping people gain access to tech careers.
+
+I hold a Bachelor of Science in Cybersecurity Management and Policy from the University of Maryland Global Campus and have earned my CompTIA Security+ certification. I'm actively expanding my skills in threat detection, malware analysis, and both offensive and defensive security. I’m always open to learning and collaborating, especially in areas where security meets usability.
 
 ## Objective
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+I'm working toward becoming a Security Analyst by building hands-on skills in problem solving and critical thinking. This space is where I’ll track my progress, share projects, and document the practical training I’m doing to grow in cybersecurity.
 
 ## Skills
 [Under Construction]
