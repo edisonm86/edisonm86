@@ -34,6 +34,13 @@ I'm working toward becoming a Security Analyst by building hands-on skills in pr
 | PCAP Analysis                             | [Wireshark capture network traffic]       |
 | Phishing Email Analysis                   | [TBD: Header + payload review]            |
 
+## Tools
+[![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white)](https://www.wireshark.org/)
+[![Splunk](https://img.shields.io/badge/-Splunk-000000?style=for-the-badge&logo=Splunk&logoColor=white)](https://www.splunk.com/)
+[![TryHackMe](https://img.shields.io/badge/-TryHackMe-E62249?style=for-the-badge&logo=TryHackMe&logoColor=white)](https://tryhackme.com/)
+[![VirusTotal](https://img.shields.io/badge/-VirusTotal-394EFF?style=for-the-badge&logo=VirusTotal&logoColor=white)](https://www.virustotal.com/)
+[![Security Onion](https://img.shields.io/badge/-Security%20Onion-5A6378?style=for-the-badge&logo=linux&logoColor=white)](https://securityonion.net/)
+
 ## Certifications
 <div>
 <a href="https://www.credly.com/badges/6870d092-d469-4c43-a4d2-5378cd4adf0a/linked_in_profile" target="_blank" rel="noopener noreferrer">
