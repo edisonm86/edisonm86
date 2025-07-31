@@ -60,4 +60,4 @@ I'm working toward becoming a Security Analyst by building hands-on skills in pr
 ## Capstone Projects
 - [Cybersecurity Strategy & Plan of Action](https://github.com/edisonm86/Cybersecurity-Strategy-Plan-of-Action/blob/22985a96e0a5315dfcc79f10863f59551f8767c4/README.md) 
 - [Implementation Plan](https://github.com/edisonm86/Implementation-Plan/blob/e008fd8380c6dccce663dc2d6f4dcb2050008af8/README.md)
-- Summary Presentation
+- [Summary Presentation](https://github.com/edisonm86/Summary-Presentation/blob/9a1adc472a1211fd021e026e1ddb83ab550172e1/README.md)
