@@ -26,12 +26,12 @@ I'm working toward becoming a Security Analyst by building hands-on skills in pr
 | MITRE ATT&CK Mapping                      | [TBD: Adversary behavior mapping]         |
 | Packet Crafting (Scapy)                   | [TBD: Custom packet with Scapy]           |
 | Vulnerability Scanning                    | [TBD: Vulnerability report analysis]      |
-| Python Scripting for Automation           | [Python Basics], [Python Basics 2]        |
+| Python Scripting for Automation           | [TBD: Python Basics], [Python Basics 2]        |
 | Bash Scripting                            | [TBD: Bash log parser]                    |
 | Regex for Log Parsing                     | [TBD: Regex to extract log fields]        |
 | Threat Hunting                            | [TBD: Hypothesis-based hunt]              |
 | OSINT (Open Source Intelligence)          | [TBD: Username/email investigation]       |
-| PCAP Analysis                             | [Wireshark capture network traffic]       |
+| PCAP Analysis                             | [TBD: Wireshark capture network traffic]       |
 | Phishing Email Analysis                   | [TBD: Header + payload review]            |
 
 ## Tools
