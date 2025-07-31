@@ -40,6 +40,7 @@ I'm working toward becoming a Security Analyst by building hands-on skills in pr
 [![TryHackMe](https://img.shields.io/badge/-TryHackMe-E62249?style=for-the-badge&logo=TryHackMe&logoColor=white)](https://tryhackme.com/)
 [![VirusTotal](https://img.shields.io/badge/-VirusTotal-394EFF?style=for-the-badge&logo=VirusTotal&logoColor=white)](https://www.virustotal.com/)
 [![Security Onion](https://img.shields.io/badge/-Security%20Onion-5A6378?style=for-the-badge&logo=linux&logoColor=white)](https://securityonion.net/)
+[![LetsDefend](https://img.shields.io/badge/-Let's%20Defend-3E8EDE?style=for-the-badge&logoColor=white)](https://www.letsdefend.io/)
 
 ## Certifications
 <div>
