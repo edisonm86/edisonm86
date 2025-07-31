@@ -64,6 +64,6 @@ I'm working toward becoming a Security Analyst by building hands-on skills in pr
 - SOC Automation Project
 
 ## Capstone
-- Cybersecurity Strategy & Plan of Action
+- [Cybersecurity Strategy & Plan of Action](https://github.com/edisonm86/Cybersecurity-Strategy-Plan-of-Action/blob/22985a96e0a5315dfcc79f10863f59551f8767c4/README.md) 
 - Implementation Plan
 - Summary Presentation
