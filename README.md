@@ -14,18 +14,18 @@ I'm working toward becoming a Security Analyst by building hands-on skills in pr
 | Skill                                      | Associated Project                        |
 |-------------------------------------------|-------------------------------------------|
 | Log Analysis (SIEM)                       | [TBD: Log parsing with Splunk/Wazuh]      |
-| Network Traffic Analysis (Wireshark, Zeek)| [Wireshark capture network traffic]       |
-| Intrusion Detection / IDS (Snort, Suricata)| [TBD: Snort rule writing]                 |
+| Network Traffic Analysis (Wireshark)      | [Wireshark capture network traffic]       |
+| Intrusion Detection / IDS (Snort)         | [TBD: Snort rule writing]                 |
 | Threat Intelligence                       | [TBD: IOC enrichment with VirusTotal]     |
-| Malware Analysis (basic static/dynamic)   | [TBD: Malware sandbox or string analysis] |
+| Malware Analysis                          | [TBD: Malware sandbox or string analysis] |
 | Endpoint Security                         | [TBD: EDR event investigation]            |
 | Use of SOAR Tools                         | [TBD: Automate triage with Python]        |
 | Incident Response Playbooks               | [TBD: Playbook creation in Markdown/PDF]  |
 | Windows Log Analysis                      | [TBD: Event Viewer investigation]         |
 | Linux Log Analysis                        | [TBD: auth.log and syslog investigation]  |
 | MITRE ATT&CK Mapping                      | [TBD: Adversary behavior mapping]         |
-| Packet Crafting (e.g., Scapy)             | [TBD: Custom packet with Scapy]           |
-| Vulnerability Scanning (Nessus/OpenVAS)   | [TBD: Vulnerability report analysis]      |
+| Packet Crafting (Scapy)                   | [TBD: Custom packet with Scapy]           |
+| Vulnerability Scanning                    | [TBD: Vulnerability report analysis]      |
 | Python Scripting for Automation           | [Python Basics], [Python Basics 2]        |
 | Bash Scripting                            | [TBD: Bash log parser]                    |
 | Regex for Log Parsing                     | [TBD: Regex to extract log fields]        |
@@ -65,5 +65,5 @@ I'm working toward becoming a Security Analyst by building hands-on skills in pr
 
 ## Capstone
 - [Cybersecurity Strategy & Plan of Action](https://github.com/edisonm86/Cybersecurity-Strategy-Plan-of-Action/blob/22985a96e0a5315dfcc79f10863f59551f8767c4/README.md) 
-- Implementation Plan
+- [Implementation Plan](https://github.com/edisonm86/Implementation-Plan/blob/e008fd8380c6dccce663dc2d6f4dcb2050008af8/README.md)
 - Summary Presentation
