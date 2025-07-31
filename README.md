@@ -56,6 +56,9 @@ Skills I'm currently learning
 <a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/mastercard/vcKAB5yYAgvemepGQ_Mastercard_4Z26NmeucEAmYLhpJ_1722445034755_completion_certificate.pdf" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/-Forage: Mastercard-007ACC?&style=for-the-badge&logo=Forage&logoColor=white" alt="Forage Certificate Badge" />
 </a>
+<a href="https://www.credly.com/badges/0348d9f5-8407-4a5b-8857-50b7fe2f2b29?source=linked_in_profile" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/-Google%20IT%20Support-34A853?style=for-the-badge&logoColor=white" alt="Google IT Certificate Badge" />
+</a>
 </div>
 
 ## Capstone Projects
