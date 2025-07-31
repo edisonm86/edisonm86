@@ -9,12 +9,12 @@ I hold a Bachelor of Science in Cybersecurity Management and Policy from the Uni
 I'm working toward becoming a Security Analyst by building hands-on skills in problem solving and critical thinking. This space is where I’ll track my progress, share projects, and document the practical training I’m doing to grow in cybersecurity.
 
 ## Skills
-[Under Construction]
+Skills I'm currently learning
 
 | Skill                                      | Associated Project                        |
 |-------------------------------------------|-------------------------------------------|
 | Log Analysis (SIEM)                       | [TBD: Log parsing with Splunk/Wazuh]      |
-| Network Traffic Analysis (Wireshark)      | [Wireshark capture network traffic]       |
+| Network Traffic Analysis (Wireshark)      | [TBD: Wireshark capture network traffic]  |
 | Intrusion Detection / IDS (Snort)         | [TBD: Snort rule writing]                 |
 | Threat Intelligence                       | [TBD: IOC enrichment with VirusTotal]     |
 | Malware Analysis                          | [TBD: Malware sandbox or string analysis] |
@@ -26,12 +26,12 @@ I'm working toward becoming a Security Analyst by building hands-on skills in pr
 | MITRE ATT&CK Mapping                      | [TBD: Adversary behavior mapping]         |
 | Packet Crafting (Scapy)                   | [TBD: Custom packet with Scapy]           |
 | Vulnerability Scanning                    | [TBD: Vulnerability report analysis]      |
-| Python Scripting for Automation           | [TBD: Python Basics], [Python Basics 2]        |
+| Python Scripting for Automation           | [TBD: Python Basics], [Python Basics 2]   |
 | Bash Scripting                            | [TBD: Bash log parser]                    |
 | Regex for Log Parsing                     | [TBD: Regex to extract log fields]        |
 | Threat Hunting                            | [TBD: Hypothesis-based hunt]              |
 | OSINT (Open Source Intelligence)          | [TBD: Username/email investigation]       |
-| PCAP Analysis                             | [TBD: Wireshark capture network traffic]       |
+| PCAP Analysis                             | [TBD: Wireshark capture network traffic]  |
 | Phishing Email Analysis                   | [TBD: Header + payload review]            |
 
 ## Tools
