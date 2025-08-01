@@ -15,13 +15,13 @@ Skills I'm currently learning
 
 | Skill | Description | Associated Project |
 |-------|-------------|--------------------|
-| **SIEM & Log Analysis** | Practicing threat detection and log correlation using SIEM tools | [🔗 Blue Team: Log Analysis Lab] |
-| **Incident Response** | Documenting mock incident handling procedures and response playbooks | [🔗 IR Playbook Project] |
-| **Vulnerability Management** | Using tools like OpenVAS/Nessus to identify and remediate vulnerabilities | [🔗 VulnScan Report Demo] |
-| **Packet Analysis & Wireshark** | Analyzing captured traffic for anomalies and security events | [🔗 PCAP Case Studies]|
-| **Malware Analysis (Intro)** | Basic static/dynamic malware analysis using tools in a sandboxed lab | [🔗 Malware MiniLab] |
-| **NIST Cybersecurity Framework (CSF)** | Applying NIST CSF to a hypothetical small business environment | [🔗 NIST CSF Project]|
-| **SOC Analyst Training (Let'sDefend)** | Walkthroughs of real-world SOC scenarios from Let'sDefend | [🔗 Let'sDefend Lab Notes]|
+| **SIEM & Log Analysis** | Practicing threat detection and log correlation using SIEM tools | [In progress] |
+| **Incident Response** | Documenting mock incident handling procedures and response playbooks | [In progress] |
+| **Vulnerability Management** | Using tools like OpenVAS/Nessus to identify and remediate vulnerabilities | [In progress] |
+| **Packet Analysis & Wireshark** | Analyzing captured traffic for anomalies and security events | [In progress]|
+| **Malware Analysis (Intro)** | Basic static/dynamic malware analysis using tools in a sandboxed lab | [In progress] |
+| **NIST Cybersecurity Framework (CSF)** | Applying NIST CSF to a hypothetical small business environment | [In progress]|
+| **SOC Analyst Training (Let'sDefend)** | Walkthroughs of real-world SOC scenarios from Let'sDefend | [In progress]|
 
 ### 🧩 Strategic & GRC Skills
 
