@@ -16,6 +16,7 @@ Skills I'm currently learning
 | Skill | Description | Associated Project |
 |-------|-------------|--------------------|
 | **SIEM & Log Analysis** | Practicing threat detection and log correlation using SIEM tools | [In progress] |
+| **Phishing Detection & Response** | Identifying, analyzing, and responding to phishing emails and tactics | [In progress] |
 | **Incident Response** | Documenting mock incident handling procedures and response playbooks | [In progress] |
 | **Vulnerability Management** | Using tools like OpenVAS/Nessus to identify and remediate vulnerabilities | [In progress] |
 | **Packet Analysis & Wireshark** | Analyzing captured traffic for anomalies and security events | [In progress]|
