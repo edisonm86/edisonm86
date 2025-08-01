@@ -62,6 +62,6 @@ Skills I'm currently learning
 </div>
 
 ## Capstone Projects
-- [Cybersecurity Strategy & Plan of Action](https://github.com/edisonm86/Cybersecurity-Strategy-Plan-of-Action/blob/22985a96e0a5315dfcc79f10863f59551f8767c4/README.md) 
+- [Cybersecurity Strategy & Plan of Action](https://github.com/edisonm86/Cybersecurity-Strategy-Plan-of-Action/blob/0ce2542abfa0fa721fd3ee82224163021f7f315b/README.md) 
 - [Implementation Plan](https://github.com/edisonm86/Implementation-Plan/blob/e008fd8380c6dccce663dc2d6f4dcb2050008af8/README.md)
 - [Summary Presentation](https://github.com/edisonm86/Summary-Presentation/blob/cc28f0db3c0fdd21b42dec31c6aabc5d0bf2e577/README.md)
