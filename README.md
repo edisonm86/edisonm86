@@ -11,28 +11,28 @@ I'm working toward becoming a Security Analyst by building hands-on skills in pr
 ## Skills
 Skills I'm currently learning
 
-| Skill                                      | Associated Project                        |
-|-------------------------------------------|-------------------------------------------|
-| Log Analysis (SIEM)                       | [TBD: Log parsing with Splunk/Wazuh]      |
-| Network Traffic Analysis (Wireshark)      | [TBD: Wireshark capture network traffic]  |
-| Intrusion Detection / IDS (Snort)         | [TBD: Snort rule writing]                 |
-| Threat Intelligence                       | [TBD: IOC enrichment with VirusTotal]     |
-| Malware Analysis                          | [TBD: Malware sandbox or string analysis] |
-| Endpoint Security                         | [TBD: EDR event investigation]            |
-| Use of SOAR Tools                         | [TBD: Automate triage with Python]        |
-| Incident Response Playbooks               | [TBD: Playbook creation in Markdown/PDF]  |
-| Windows Log Analysis                      | [TBD: Event Viewer investigation]         |
-| Linux Log Analysis                        | [TBD: auth.log and syslog investigation]  |
-| MITRE ATT&CK Mapping                      | [TBD: Adversary behavior mapping]         |
-| Packet Crafting (Scapy)                   | [TBD: Custom packet with Scapy]           |
-| Vulnerability Scanning                    | [TBD: Vulnerability report analysis]      |
-| Python Scripting for Automation           | [TBD: Python Basics], [Python Basics 2]   |
-| Bash Scripting                            | [TBD: Bash log parser]                    |
-| Regex for Log Parsing                     | [TBD: Regex to extract log fields]        |
-| Threat Hunting                            | [TBD: Hypothesis-based hunt]              |
-| OSINT (Open Source Intelligence)          | [TBD: Username/email investigation]       |
-| PCAP Analysis                             | [TBD: Wireshark capture network traffic]  |
-| Phishing Email Analysis                   | [TBD: Header + payload review]            |
+### 🛠️ Skills in Progress
+
+| Skill | Description | Associated Project |
+|-------|-------------|--------------------|
+| **SIEM & Log Analysis** | Practicing threat detection and log correlation using SIEM tools | [🔗 Blue Team: Log Analysis Lab] |
+| **Incident Response** | Documenting mock incident handling procedures and response playbooks | [🔗 IR Playbook Project] |
+| **Vulnerability Management** | Using tools like OpenVAS/Nessus to identify and remediate vulnerabilities | [🔗 VulnScan Report Demo] |
+| **Packet Analysis & Wireshark** | Analyzing captured traffic for anomalies and security events | [🔗 PCAP Case Studies]|
+| **Malware Analysis (Intro)** | Basic static/dynamic malware analysis using tools in a sandboxed lab | [🔗 Malware MiniLab] |
+| **NIST Cybersecurity Framework (CSF)** | Applying NIST CSF to a hypothetical small business environment | [🔗 NIST CSF Project]|
+| **SOC Analyst Training (Let'sDefend)** | Walkthroughs of real-world SOC scenarios from Let'sDefend | [🔗 Let'sDefend Lab Notes]|
+
+### 🧩 Strategic & GRC Skills
+
+| Skill                         | Description                                                                 | Associated Project                          |
+|------------------------------|-----------------------------------------------------------------------------|---------------------------------------------|
+| Security Strategy & Planning | Developed cybersecurity posture strategy for enterprise acquisition        | [🔗 Cybersecurity Strategy & Risk Register](https://github.com/edisonm86/Cybersecurity-Strategy-Plan-of-Action/blob/0ce2542abfa0fa721fd3ee82224163021f7f315b/README.md) |
+| Risk Management              | Created risk register, assessed impact & likelihood, proposed mitigations   | [🔗 Cybersecurity Strategy & Risk Register](https://github.com/edisonm86/Cybersecurity-Strategy-Plan-of-Action/blob/0ce2542abfa0fa721fd3ee82224163021f7f315b/README.md) |
+| Security Control Selection   | Mapped controls using NIST SP 800-53 and aligned to CSF framework           | [🔗 Implementation Plan](https://github.com/edisonm86/Implementation-Plan/blob/e008fd8380c6dccce663dc2d6f4dcb2050008af8/README.md)        |
+| Project & Budget Planning    | Developed a 3-phase implementation timeline with estimated costs            | [🔗 Implementation Plan](https://github.com/edisonm86/Implementation-Plan/blob/e008fd8380c6dccce663dc2d6f4dcb2050008af8/README.md)        |
+| Executive Communication      | Presented board-level strategy summary and recommendations                  | [🔗 Final Presentation](https://github.com/edisonm86/Summary-Presentation/blob/cc28f0db3c0fdd21b42dec31c6aabc5d0bf2e577/README.md)         |
+
 
 ## Tools
 [![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white)](https://www.wireshark.org/)
