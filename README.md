@@ -34,11 +34,11 @@ Practicing Postmortem Documentation on things I encounter in my systems
 
 | Skill                         | Description                                                                 | Associated Project                          |
 |------------------------------|-----------------------------------------------------------------------------|---------------------------------------------|
-| Security Strategy & Planning | Developed cybersecurity posture strategy for enterprise acquisition        | [🔗 Cybersecurity Strategy & Plan of Action](https://github.com/edisonm86/Cybersecurity-Strategy-Plan-of-Action/blob/0ce2542abfa0fa721fd3ee82224163021f7f315b/README.md) |
-| Risk Management              | Created risk register, assessed impact & likelihood, proposed mitigations   | [🔗 Cybersecurity Strategy & Plan of Register](https://github.com/edisonm86/Cybersecurity-Strategy-Plan-of-Action/blob/0ce2542abfa0fa721fd3ee82224163021f7f315b/README.md) |
-| Security Control Selection   | Mapped controls using NIST SP 800-53 and aligned to CSF framework           | [🔗 Implementation Plan](https://github.com/edisonm86/Implementation-Plan/blob/e008fd8380c6dccce663dc2d6f4dcb2050008af8/README.md)        |
-| Project & Budget Planning    | Developed a 3-phase implementation timeline with estimated costs            | [🔗 Implementation Plan](https://github.com/edisonm86/Implementation-Plan/blob/e008fd8380c6dccce663dc2d6f4dcb2050008af8/README.md)        |
-| Executive Communication      | Presented board-level strategy summary and recommendations                  | [🔗 Summary Presentation](https://github.com/edisonm86/Summary-Presentation/blob/cc28f0db3c0fdd21b42dec31c6aabc5d0bf2e577/README.md)         |
+| **Security Strategy & Planning** | Developed cybersecurity posture strategy for enterprise acquisition        | [🔗 Cybersecurity Strategy & Plan of Action](https://github.com/edisonm86/Cybersecurity-Strategy-Plan-of-Action/blob/0ce2542abfa0fa721fd3ee82224163021f7f315b/README.md) |
+| **Risk Management**              | Created risk register, assessed impact & likelihood, proposed mitigations   | [🔗 Cybersecurity Strategy & Plan of Register](https://github.com/edisonm86/Cybersecurity-Strategy-Plan-of-Action/blob/0ce2542abfa0fa721fd3ee82224163021f7f315b/README.md) |
+| **Security Control Selection**   | Mapped controls using NIST SP 800-53 and aligned to CSF framework           | [🔗 Implementation Plan](https://github.com/edisonm86/Implementation-Plan/blob/e008fd8380c6dccce663dc2d6f4dcb2050008af8/README.md)        |
+| **Project & Budget Planning**    | Developed a 3-phase implementation timeline with estimated costs            | [🔗 Implementation Plan](https://github.com/edisonm86/Implementation-Plan/blob/e008fd8380c6dccce663dc2d6f4dcb2050008af8/README.md)        |
+| **Executive Communication**      | Presented board-level strategy summary and recommendations                  | [🔗 Summary Presentation](https://github.com/edisonm86/Summary-Presentation/blob/cc28f0db3c0fdd21b42dec31c6aabc5d0bf2e577/README.md)         |
 
 
 ## Tools
