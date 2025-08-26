@@ -1,33 +1,36 @@
 # Hello, I'm Edison Maniwang
 <a href="https://www.linkedin.com/in/edisonmaniwang/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I'm an emerging Security Analyst with a background in system administration and platform management. For nearly five years at Merit America, I’ve managed learning platforms supporting IT Support, Cybersecurity, Data Analytics, and more. My focus is on maintaining secure systems, troubleshooting, onboarding users, and improving platform usability.
+I have a background in system administration and platform management, and for the past five years at Merit America I’ve managed LMS platforms that supported programs in IT Support, Cybersecurity, and Data Analytics.
 
-I hold a B.S. in Cybersecurity Management and Policy from UMGC and a CompTIA Security+ certification. I'm actively building skills in threat detection, malware analysis, and both defensive and offensive security. I enjoy making systems safer and more accessible, and I’m always open to learning and collaborating.
+I recently earned my B.S. in Cybersecurity Management and Policy from UMGC and hold a CompTIA Security+ certification. I’m building hands-on experience with tools like Wazuh, Suricata, and other SIEM platforms, focusing on threat detection, log analysis, and incident response.
+
+I enjoy making systems safer, troubleshooting problems, and helping people use technology with confidence. Always learning, always improving.
 
 ## Objective
 I'm working toward becoming a Security Analyst by building hands-on skills in problem solving and critical thinking. This space is where I’ll track my progress, share projects, and document the practical training I’m doing to grow in cybersecurity.
 
 ## Skills
-Skills I'm currently learning
+Skills I'm currently learning through passion projects and homelab/pc troubleshooting
 
 ### 📄 Postmortem Documentation
+Practicing Postmortem Documentation on things I encounter in my systems
+
 [Windows Boot Failure + Installation](https://github.com/edisonm86/Windwos-11-Installation-Failuree---Postmortem/blob/478fa56892db08037006b5a0fc90d02c29b139a9/README.md)
 
-### 🛠️ Skills in Progress
+### 🛠️ Projects
 
 | Skill | Description | Associated Project |
 |-------|-------------|--------------------|
-| **SIEM & Log Analysis** | Practicing threat detection and log correlation using SIEM tools | [In progress] |
+| **SIEM & Log Analysis (Wazuh)** | Practicing threat detection and log correlation using SIEM tools | [In progress] |
 | **Phishing Detection & Response** | Identifying, analyzing, and responding to phishing emails and tactics | [In progress] |
 | **Incident Response** | Documenting mock incident handling procedures and response playbooks | [In progress] |
 | **Vulnerability Management** | Using tools like OpenVAS/Nessus to identify and remediate vulnerabilities | [In progress] |
 | **Packet Analysis & Wireshark** | Analyzing captured traffic for anomalies and security events | [In progress]|
 | **Malware Analysis (Intro)** | Basic static/dynamic malware analysis using tools in a sandboxed lab | [In progress] |
-| **NIST Cybersecurity Framework (CSF)** | Applying NIST CSF to a hypothetical small business environment | [In progress]|
 | **SOC Analyst Training (Let'sDefend)** | Walkthroughs of real-world SOC scenarios from Let'sDefend | [In progress]|
 
-### 🧩 Strategic & GRC Skills
+### 🧩 Strategic & GRC Projects
 
 | Skill                         | Description                                                                 | Associated Project                          |
 |------------------------------|-----------------------------------------------------------------------------|---------------------------------------------|
@@ -42,8 +45,8 @@ Skills I'm currently learning
 [![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white)](https://www.wireshark.org/)
 [![Splunk](https://img.shields.io/badge/-Splunk-000000?style=for-the-badge&logo=Splunk&logoColor=white)](https://www.splunk.com/)
 [![TryHackMe](https://img.shields.io/badge/-TryHackMe-E62249?style=for-the-badge&logo=TryHackMe&logoColor=white)](https://tryhackme.com/)
-[![VirusTotal](https://img.shields.io/badge/-VirusTotal-394EFF?style=for-the-badge&logo=VirusTotal&logoColor=white)](https://www.virustotal.com/)
-[![Security Onion](https://img.shields.io/badge/-Security%20Onion-5A6378?style=for-the-badge&logo=linux&logoColor=white)](https://securityonion.net/)
+[![Wazuh](https://img.shields.io/badge/Wazuh-007ACC?style=for-the-badge&logo=shield&logoColor=white)](https://www.https://wazuh.com/)
+[![Suricata](https://img.shields.io/badge/Suricata-EF3B2D?style=for-the-badge&logo=protocols&logoColor=white)](https://https://suricata.io//)
 [![LetsDefend](https://img.shields.io/badge/-Let's%20Defend-3E8EDE?style=for-the-badge&logoColor=white)](https://www.letsdefend.io/)
 
 ## Certifications
